@@ -29,7 +29,7 @@
   "homepage": "https://github.com/bessdsv/karma-jasmine-jquery",
   "dependencies": {
     "bower": "^1.3.9",
-    "bower-installer": "git+https://github.com/bessdsv/bower-installer.git#temp"
+    "bower-installer": "https://github.com/bessdsv/bower-installer.git"
   },
   "volta": {
     "node": "14.21.3"
